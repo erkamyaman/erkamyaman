@@ -6,7 +6,7 @@
 
 <p>
   <samp>
-    🛠️ building <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> with <a href="https://github.com/santoshyadavdev">@santoshyadavdev</a><br>
+    🔎 building <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> with <a href="https://github.com/santoshyadavdev">@santoshyadavdev</a><br>
     📱 contributing to <a href="https://github.com/ng-native/ng-native">Angular Native</a> (a dream I never imagined would come true), the great work of <a href="https://github.com/ashley-hunter">@ashley-hunter</a><br>
     🅰️ our BELOVED <a href="https://github.com/angular/angular">Angular</a>, where I try to contribute daily (docs, docs-infra). If you see Angie in a random place on angular.dev, that was probably me
   </samp>
