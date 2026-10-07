@@ -1,18 +1,27 @@
+<h3 align="center">kæm</h3>
+
 <p align="center">
-  <samp>
-    kæm · Döner kebab in developer form 🌯<br>
-    currently building <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> with <a href="https://github.com/santoshyadavdev">@santoshyadavdev</a><br>
-    and contributing to <a href="https://github.com/ng-native/ng-native">Angular Native</a> (a dream I never imagined would come true), the great work of <a href="https://github.com/ashley-hunter">@ashley-hunter</a><br>
-    and of course our BELOVED <a href="https://github.com/angular/angular">Angular</a>, where I try to contribute daily (docs, docs-infra). If you see Angie in a random place on angular.dev, that was probably me
-  </samp>
+  <samp>Döner kebab in developer form 🌯</samp>
 </p>
 
 <p align="center">
   <samp>
-    <a href="https://erkamyaman.dev">me</a> .
-    <a href="https://x.com/erkamyaman_ng">tweets</a> .
-    <a href="https://www.linkedin.com/in/erkamyaman">linkedin</a> .
-    <a href="mailto:erkamyaman35@gmail.com">email</a> .
+    building <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> with <a href="https://github.com/santoshyadavdev">@santoshyadavdev</a><br>
+    contributing to <a href="https://github.com/ng-native/ng-native">Angular Native</a> with <a href="https://github.com/ashley-hunter">@ashley-hunter</a><br>
+    and to <a href="https://github.com/angular/angular">Angular</a> daily (docs, docs-infra)
+  </samp>
+</p>
+
+<p align="center">
+  <sub>If you spot Angie somewhere on angular.dev, that was probably me.</sub>
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://erkamyaman.dev">me</a> &nbsp;&middot;&nbsp;
+    <a href="https://x.com/erkamyaman_ng">tweets</a> &nbsp;&middot;&nbsp;
+    <a href="https://www.linkedin.com/in/erkamyaman">linkedin</a> &nbsp;&middot;&nbsp;
+    <a href="mailto:erkamyaman35@gmail.com">email</a> &nbsp;&middot;&nbsp;
     <a href="https://github.com/sponsors/erkamyaman">sponsor</a>
   </samp>
 </p>
