@@ -1,6 +1,6 @@
 <p>
   <samp>
-    {{ erKam | kæm }} (kam) · Döner kebab in developer form 🌯
+    {{ erKam | kæm }} · Döner kebab in developer form 🌯
   </samp>
 </p>
 
