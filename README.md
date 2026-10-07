@@ -1,27 +1,49 @@
-<h3 align="center">kæm</h3>
+<div align="center">
 
-<p align="center">
-  <samp>Döner kebab in developer form 🌯</samp>
+# kæm 🌯
+
+**Döner kebab in developer form.**
+Angular · Ionic · Capacitor · Open source
+
+[![Website](https://img.shields.io/badge/erkamyaman.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://erkamyaman.dev)
+[![X](https://img.shields.io/badge/@erkamyaman__ng-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/erkamyaman_ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkamyaman)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erkamyaman35@gmail.com)
+
+</div>
+
+<br>
+
+## 🔭 What I'm up to
+
+| | |
+|---|---|
+| 🛠️ **Building** | [**Pangular Inspector**](https://github.com/pangular-inspector/devtools) with [@santoshyadavdev](https://github.com/santoshyadavdev) |
+| 📱 **Contributing** | [**Angular Native**](https://github.com/ng-native/ng-native), the great work of [@ashley-hunter](https://github.com/ashley-hunter). A dream I never imagined would come true. |
+| 💜 **Every day** | [**Angular**](https://github.com/angular/angular) docs and docs-infra |
+
+<br>
+
+## 🧰 Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic">
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor">
+  <img src="https://img.shields.io/badge/PrimeNG-1E293B?style=flat-square&logoColor=white" alt="PrimeNG">
 </p>
 
-<p align="center">
-  <samp>
-    building <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> with <a href="https://github.com/santoshyadavdev">@santoshyadavdev</a><br>
-    contributing to <a href="https://github.com/ng-native/ng-native">Angular Native</a> with <a href="https://github.com/ashley-hunter">@ashley-hunter</a><br>
-    and to <a href="https://github.com/angular/angular">Angular</a> daily (docs, docs-infra)
-  </samp>
-</p>
+<br>
 
-<p align="center">
-  <sub>If you spot Angie somewhere on angular.dev, that was probably me.</sub>
-</p>
+## 👀 Spot me
 
-<p align="center">
-  <samp>
-    <a href="https://erkamyaman.dev">me</a> &nbsp;&middot;&nbsp;
-    <a href="https://x.com/erkamyaman_ng">tweets</a> &nbsp;&middot;&nbsp;
-    <a href="https://www.linkedin.com/in/erkamyaman">linkedin</a> &nbsp;&middot;&nbsp;
-    <a href="mailto:erkamyaman35@gmail.com">email</a> &nbsp;&middot;&nbsp;
-    <a href="https://github.com/sponsors/erkamyaman">sponsor</a>
-  </samp>
-</p>
+If you see **Angie** in a random place on [angular.dev](https://angular.dev), that was probably me.
+
+<br>
+
+<div align="center">
+
+[**Sponsor my open source work ♥**](https://github.com/sponsors/erkamyaman)
+
+</div>
