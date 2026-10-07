@@ -1,10 +1,10 @@
-<p align="center">
+<p>
   <samp>
     {{ erKam | kæm }} · Döner kebab in developer form 🌯
   </samp>
 </p>
 
-<p align="center">
+<p>
   <samp>
     <img src="https://github.com/pangular-inspector.png?size=32" height="16" alt=""> building <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> with <a href="https://github.com/santoshyadavdev">@santoshyadavdev</a><br>
     <img src="https://github.com/ng-native.png?size=32" height="16" alt=""> contributing to <a href="https://github.com/ng-native/ng-native">Angular Native</a> (a dream I never imagined would come true), the great work of <a href="https://github.com/ashley-hunter">@ashley-hunter</a><br>
