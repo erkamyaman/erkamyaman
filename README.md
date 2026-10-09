@@ -13,7 +13,7 @@
   </samp>
 </p>
 
-<p align="center">
+<p>
   <samp>
     <img src="https://erkamyaman.dev/favicon.ico" height="20" align="absmiddle" alt=""> <a href="https://erkamyaman.dev">me</a> &nbsp;
     <img src="https://cdn.simpleicons.org/x/888888" height="20" align="absmiddle" alt=""> <a href="https://x.com/erkamyaman_ng">tweets</a> &nbsp;
