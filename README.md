@@ -6,8 +6,8 @@
 
 <p>
   <samp>
-    <img src="https://github.com/pangular-inspector.png?size=32" height="20" align="absmiddle" alt=""> building <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> with <a href="https://github.com/santoshyadavdev">@santoshyadavdev</a><br>
-    <img src="https://github.com/ng-native.png?size=32" height="20" align="absmiddle" alt=""> contributing to <a href="https://github.com/ng-native/ng-native">Angular Native</a>, the great work of <a href="https://github.com/ashley-hunter">@ashley-hunter</a> · <a href="https://github.com/ng-native/ng-native/commits/main/?author=erkamyaman">see my work</a><br>
+    <img src="https://raw.githubusercontent.com/pangular-inspector/devtools/main/apps/docs/public/press/logo/png/mark/mark-on-dark-512.png" height="20" align="absmiddle" alt=""> building <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> with <a href="https://github.com/santoshyadavdev">@santoshyadavdev</a><br>
+    <img src="https://raw.githubusercontent.com/ng-native/ng-native/main/apps/documentation/public/favicon.svg" height="20" align="absmiddle" alt=""> contributing to <a href="https://github.com/ng-native/ng-native">Angular Native</a>, the great work of <a href="https://github.com/ashley-hunter">@ashley-hunter</a> · <a href="https://github.com/ng-native/ng-native/commits/main/?author=erkamyaman">see my work</a><br>
     <img src="https://raw.githubusercontent.com/angular/angular/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" height="20" align="absmiddle" alt=""> contributing daily to our BELOVED <a href="https://github.com/angular/angular">Angular</a> (docs, docs-infra) · <a href="https://github.com/angular/angular/commits/main/?author=erkamyaman">see my work</a><br>
     <img src="https://raw.githubusercontent.com/angular/angular/main/adev/src/assets/images/angie/magnifying-glass.svg" height="24" align="absmiddle" alt=""> if you see Angie in a random place on angular.dev, that was probably me
   </samp>
@@ -22,3 +22,5 @@
     <img src="https://cdn.simpleicons.org/githubsponsors" height="20" align="absmiddle" alt=""> <a href="https://github.com/sponsors/erkamyaman">sponsor</a>
   </samp>
 </p>
+
+
