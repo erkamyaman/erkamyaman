@@ -18,7 +18,7 @@
     <img src="https://erkamyaman.dev/favicon.ico" height="20" align="absmiddle" alt=""> <a href="https://erkamyaman.dev">me</a> &nbsp;
     <img src="https://cdn.simpleicons.org/x/888888" height="20" align="absmiddle" alt=""> <a href="https://x.com/erkamyaman_ng">tweets</a> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" align="absmiddle" alt=""> <a href="https://www.linkedin.com/in/erkamyaman">linkedin</a> &nbsp;
-    <img src="https://cdn.simpleicons.org/gmail" height="20" align="absmiddle" alt=""> <a href="mailto:erkamyaman35@gmail.com">email</a> &nbsp;
+    <img src="https://api.iconify.design/logos:google-gmail.svg" height="20" align="absmiddle" alt=""> <a href="mailto:erkamyaman35@gmail.com">email</a> &nbsp;
     <img src="https://cdn.simpleicons.org/githubsponsors" height="20" align="absmiddle" alt=""> <a href="https://github.com/sponsors/erkamyaman">sponsor</a>
   </samp>
 </p>
