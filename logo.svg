@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 19 472 472" width="512" height="512" role="img" aria-label="Turkish crescent and star on an angular shield">
+  <polygon points="256,28 472,100 432,385 256,482 80,385 40,100" fill="#E30A17"/>
+  <g transform="translate(215 245) scale(1.05)" fill="#FFFFFF">
+    <path d="M84.5,-53.5 A100,100 0 1 0 84.5,53.5 A80,80 0 1 1 84.5,-53.5 Z"/>
+    <polygon points="178,0 143.45,11.23 143.45,47.55 122.1,18.17 87.55,29.39 108.9,0 87.55,-29.39 122.1,-18.17 143.45,-47.55 143.45,-11.23"/>
+  </g>
+</svg>
