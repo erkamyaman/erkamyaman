@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Software engineer and open sourcerer from Turkey 🇹🇷. Contributing to <a href="https://github.com/angular/angular/pulls?q=sort%3Aupdated-desc+is%3Apr+state%3Aclosed+author%3Aerkamyaman">Angular</a>, <a href="https://github.com/ng-native/ng-native/pulls?q=sort%3Aupdated-desc+is%3Apr+state%3Aclosed+author%3Aerkamyaman">Angular Native</a> and <a href="https://github.com/x18n-dev/x18n">x18n</a> (on the team), building <a href="https://github.com/slide-ng/slide.ng">slide.ng</a>, <a href="https://github.com/erkamyaman/capacitor-foldable">Capacitor Foldable</a>, <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a> and <a href="https://github.com/erkamyaman/angularians">Angularians</a>, and maintaining the <a href="https://angular-docs.tr">Turkish Angular docs</a>.
+    Software engineer and open sourcerer from Turkey 🇹🇷. Creator of <a href="https://github.com/slide-ng/slide.ng">slide.ng</a>, the <a href="https://angular-docs.tr">Turkish Angular docs</a>, <a href="https://github.com/erkamyaman/capacitor-foldable">Capacitor Foldable</a> and <a href="https://github.com/erkamyaman/angularians">Angularians</a>, co-creator of <a href="https://github.com/pangular-inspector/devtools">Pangular Inspector</a>, team member of <a href="https://github.com/x18n-dev/x18n">x18n</a>, and contributing to <a href="https://github.com/angular/angular/pulls?q=sort%3Aupdated-desc+is%3Apr+state%3Aclosed+author%3Aerkamyaman">Angular</a> and <a href="https://github.com/ng-native/ng-native/pulls?q=sort%3Aupdated-desc+is%3Apr+state%3Aclosed+author%3Aerkamyaman">Angular Native</a>.
   </samp>
 </p>
 
