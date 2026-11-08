@@ -24,3 +24,5 @@
     <a href="https://github.com/sponsors/erkamyaman">sponsor</a>
   </samp>
 </p>
+
+[![erkamyaman's Angularian profile in the last 12 months](https://angularians.dev/erkamyaman/card.png?period=12m)](https://angularians.dev/erkamyaman?period=12m)
