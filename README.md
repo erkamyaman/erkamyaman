@@ -24,5 +24,3 @@
     <a href="https://github.com/sponsors/erkamyaman">sponsor</a>
   </samp>
 </p>
-
-[![erkamyaman's Angularian profile](https://angularians.dev/erkamyaman/card.png?names=official)](https://angularians.dev/erkamyaman?names=official)
