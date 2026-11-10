@@ -21,6 +21,7 @@
     <a href="https://x.com/erkamyaman_ng">tweets</a> .
     <a href="https://bsky.app/profile/erkamyaman.dev">bluesky</a> .
     <a href="https://www.linkedin.com/in/erkamyaman">linkedin</a> .
+    <a href="https://angularians.dev/erkamyaman">angularian profile</a>,
     <a href="https://github.com/sponsors/erkamyaman">sponsor</a>
   </samp>
 </p>
