@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <samp>Currently working on <a href="https://github.com/erkamyaman/ngx-cloudflare">ngx-cloudflare</a></samp>
+  <samp>Currently building <a href="https://github.com/erkamyaman/ngx-cloudflare">ngx-cloudflare</a></samp>
 </p>
 
 
