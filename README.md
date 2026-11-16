@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <samp>Currently building <a href="https://github.com/erkamyaman/ngx-cloudflare">ngx-cloudflare</a></samp> and <samp><a href="https://github.com/erkamyaman/unslopovich">unslopovich</a></samp>
+  <samp>Currently building <a href="https://github.com/erkamyaman/ngx-cloudflare">ngx-cloudflare</a></samp> , <samp><a href="https://github.com/erkamyaman/unslopovich">unslopovich</a></samp> and <samp><a href="https://github.com/erkamyaman/rust-anything">rust-anything</a></samp>
 </p>
 
 
